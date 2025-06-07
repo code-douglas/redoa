@@ -69,7 +69,7 @@ Projeto full stack com foco em doações de produtos, geração automática de d
 ---
 
 ## 🗂 Estrutura de Diretórios (MVC)
-
+```
 📁 src
 ├── controllers/
 ├── models/
@@ -81,7 +81,7 @@ Projeto full stack com foco em doações de produtos, geração automática de d
 ├── services/ # Integração com IA e envio de email
 ├── public/ # CSS, imagens e JS estático
 └── uploads/ # Imagens dos produtos
-
+```
 ---
 
 ## 🚀 Executando o Projeto
